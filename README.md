@@ -71,3 +71,10 @@ Final project — Master's in Big Data
 
 *This project demonstrates the application of data analytics and machine learning techniques to a business problem involving customer retention.*
 
+Project Defense
+
+Watch the recorded presentation of my Master's final project, covering the methodology, technical implementation, results and business implications.
+
+▶ Watch the project defense on YouTube
+
+Video hosted on YouTube and shared as an unlisted link: https://youtu.be/Cvdv09xxyl0
